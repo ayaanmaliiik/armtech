@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/armtech.github.io/static/js/main.23dd0e89.js",
-    "static/media/image2.jpg": "/armtech.github.io/static/media/image2.fc28638cecb84709b396.jpg",
-    "index.html": "/armtech.github.io/index.html",
-    "main.23dd0e89.js.map": "/armtech.github.io/static/js/main.23dd0e89.js.map"
+    "main.js": "/armtech/static/js/main.59760e44.js",
+    "static/media/image2.jpg": "/armtech/static/media/image2.fc28638cecb84709b396.jpg",
+    "index.html": "/armtech/index.html",
+    "main.59760e44.js.map": "/armtech/static/js/main.59760e44.js.map"
   },
   "entrypoints": [
-    "static/js/main.23dd0e89.js"
+    "static/js/main.59760e44.js"
   ]
 }
