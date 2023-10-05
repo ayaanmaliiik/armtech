@@ -58,7 +58,7 @@ const Contact = () => {
                   <i className="bi bi-telephone-fill h1"></i>
                 </ContactIcon>
                 <p>
-                  <span>Phone :</span> + 91 1234567870
+                  <span>Phone :</span> + 91 9824948451
                 </p>
               </div>
               <div className="col-12 col-lg-3 col-md-6">
@@ -82,7 +82,7 @@ const Contact = () => {
                 </ContactIcon>
                 <span>Website :</span>
                 <ContactLink href="#" target="_blank" rel="noopener noreferrer">
-                  ayaanmalikstudio.github.io
+                  ayaanmalikstudio.github.io/ArmTech
                 </ContactLink>
               </div>
             </div>

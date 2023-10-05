@@ -40,7 +40,7 @@ const Navbar = () => {
   return (
     <Nav className="navbar sticky-top navbar-expand-lg">
       <div className="container">
-      <a className="navbar-brand">
+      <a className="navbar-brand" href="ayaanmalik-studio.github.io/ArmTech">
           Arm<span className="text-danger text-bold">Tech</span>
         </a>
         <button

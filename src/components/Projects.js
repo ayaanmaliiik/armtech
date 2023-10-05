@@ -28,15 +28,10 @@ const ProjectsContent = styled.p`
   text-align: justify;
 `;
 
-const ProjectsContentHighlighter = styled.span`
-  color: red;
-  font-weight: bold;
-`;
-
 const Projects = () => {
   const projects = [
     {
-      title: "Care Care Service Center",
+      title: "Car Care Service Center",
       description:
         "The Car Care Service System represents a significant step forward in the automotive service industry, providing an integrated solution for car owners and service centers alike. It streamlines the entire process, from appointment scheduling to payment, ultimately enhancing the car ownership experience. With its user-friendly interface and robust features, it caters to the needs of modern car owners and helps service centers deliver top-notch services. This project demonstrates the power of HTML, CSS, JavaScript, PHP, and MySQL in creating efficient and user-centric web applications.",
       link: "#",
