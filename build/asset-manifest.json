@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/ArmTech/static/js/main.d3b29d2c.js",
+    "main.js": "/ArmTech/static/js/main.dcf15388.js",
     "static/media/image2.jpg": "/ArmTech/static/media/image2.fc28638cecb84709b396.jpg",
     "index.html": "/ArmTech/index.html",
-    "main.d3b29d2c.js.map": "/ArmTech/static/js/main.d3b29d2c.js.map"
+    "main.dcf15388.js.map": "/ArmTech/static/js/main.dcf15388.js.map"
   },
   "entrypoints": [
-    "static/js/main.d3b29d2c.js"
+    "static/js/main.dcf15388.js"
   ]
 }
