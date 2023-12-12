@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/ArmTech/static/js/main.c0d8cd68.js",
-    "static/media/image2.jpg": "/ArmTech/static/media/image2.fc28638cecb84709b396.jpg",
-    "index.html": "/ArmTech/index.html",
-    "main.c0d8cd68.js.map": "/ArmTech/static/js/main.c0d8cd68.js.map"
+    "main.js": "/armtech/static/js/main.ba8e4f2b.js",
+    "static/media/image2.jpg": "/armtech/static/media/image2.fc28638cecb84709b396.jpg",
+    "index.html": "/armtech/index.html",
+    "main.ba8e4f2b.js.map": "/armtech/static/js/main.ba8e4f2b.js.map"
   },
   "entrypoints": [
-    "static/js/main.c0d8cd68.js"
+    "static/js/main.ba8e4f2b.js"
   ]
 }
